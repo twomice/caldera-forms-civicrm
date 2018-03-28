@@ -1,4 +1,4 @@
-function cfc_contact_link_options( id = null ) {
+function cfc_contact_link_options( id ) {
 
 	var options = [];
 	for ( var i = 1; i <= 10; i++ ) {
